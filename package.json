@@ -1,0 +1,23 @@
+{
+  "name": "zhuge-io-node",
+  "version": "1.0.2",
+  "description": "诸葛io node集成",
+  "main": "dist/zhuge.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eunion/zhuge-io-node.git"
+  },
+  "keywords": [
+    "诸葛io",
+    "nodejs"
+  ],
+  "author": "PeterTulooce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eunion/zhuge-io-node/issues"
+  },
+  "homepage": "https://github.com/eunion/zhuge-io-node#readme"
+}
