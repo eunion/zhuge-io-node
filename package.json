@@ -1,6 +1,6 @@
 {
   "name": "zhuge-io-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "诸葛io node集成",
   "main": "dist/zhuge.min.js",
   "scripts": {
